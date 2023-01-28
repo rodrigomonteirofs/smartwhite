@@ -27,7 +27,6 @@ body{
 header{
     width: 100%;
     padding: 20px 0px;
-    border-bottom: 1px solid #f8f9fa;
 }
 
 header ul{
@@ -257,5 +256,14 @@ footer{
     bottom: 0;
        
     padding: 20px 0px;
+}
+
+.material-symbols-outlined{
+    visibility:hidden;
+}
+
+.menu{
+    border-bottom: 1px solid #f8f9fa;
+    padding: 10px;
 }
 
