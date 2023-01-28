@@ -208,8 +208,13 @@ h1{
     font-size: 12pt;
 }
 
+.observação-plano{
+    text-align: center;
+    padding: 20px;
+}
+
 .btn-assinatura{
-    margin:20px;
+    margin:10px;
     
     background-color: #f8f9fa;
 
