@@ -227,7 +227,7 @@ footer{
 }
 
 .menu{
-    border-bottom: 1px solid #f8f9fa;
+    border-bottom: 0px solid #f8f9fa;
     padding-bottom: 5px;
     display: none;
 }
