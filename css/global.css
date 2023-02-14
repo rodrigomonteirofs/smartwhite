@@ -74,7 +74,9 @@ h1{
 }
 
 .content p{
+    word-wrap: break-word;
     text-align: justify;
+    text-justify: inter-word;
     text-indent: 0px;
     line-height: 30px;
     margin-bottom: 20px;
